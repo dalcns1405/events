@@ -1,17 +1,15 @@
-import { View, Text } from 'react-native'
-import React from 'react'
-import SearchBar from './src/components/SearchBar'
-import EventsScreen from './src/screens/EventsScreen'
-import { SafeAreaView } from 'react-native-safe-area-context'
+import 'react-native-gesture-handler';
+import React from 'react';
+import Router from './src/navigator/Router';
+import EventList from './src/components/EventList';
+import { SearchBar } from 'react-native-screens';
 
 const App = () => {
   return (
-    <SafeAreaView>
-       <SearchBar/>
-       <EventsScreen/>
-    </SafeAreaView>
+    <><SearchBar /></>
   
   )
-}
+  
+};
 
-export default App
+export default App;
