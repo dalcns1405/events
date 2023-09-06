@@ -1,10 +1,10 @@
 import 'react-native-gesture-handler';
 import React, { useState } from 'react';
 import { View, TextInput, StyleSheet } from 'react-native';
-import EventList from './EventList';
 
 
-const SearchBar= ({ eventsData ,navigation})  => {
+
+const SearchBar= ({ eventsData})  => {
   const [searchText, setSearchText] = useState('');
   const [selectedCategory, setSelectedCategory] = useState('All');
   const [filteredData, setFilteredData] = useState(eventsData);
@@ -22,9 +22,6 @@ const SearchBar= ({ eventsData ,navigation})  => {
     setFilteredData(filteredEvents);
   };
 
-  const handleItemPress = (item) => {
-    navigation.navigate('EventDetails', { item });
-  };
 
   return (
     <View style={styles.container}>
@@ -35,9 +32,8 @@ const SearchBar= ({ eventsData ,navigation})  => {
         onChangeText={setSearchText}
         onEndEditing={handleSearch}
       />
+     
       
-
-      <EventList data={filteredData} onItemPress={handleItemPress} />
     </View>
   );
 };
