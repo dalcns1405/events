@@ -12,8 +12,9 @@ export const eventsData=
       "BiletSatisLinki": null,
       "UcretsizMi": true,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230623_161434_etkinlik.jpg",
-      "EtkinlikUrl": "yeniden-sinematek-cennetten-gelen-cocukcairo-conspiracy",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/yeniden-sinematek-cennetten-gelen-cocukcairo-conspiracy",
       "EtkinlikBaslamaTarihi": "2023-08-30T21:00:00"
+      
     },
     {
       "Tur": "KONSER",
@@ -26,7 +27,7 @@ export const eventsData=
       "BiletSatisLinki": null,
       "UcretsizMi": true,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230828_172652_etkinlik.jpg",
-      "EtkinlikUrl": "turk-muziginde-kantolar-tangolar-ve-vals",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/turk-muziginde-kantolar-tangolar-ve-vals",
       "EtkinlikBaslamaTarihi": "2023-08-30T21:00:00"
     },
     {
@@ -40,7 +41,7 @@ export const eventsData=
       "BiletSatisLinki": null,
       "UcretsizMi": true,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230811_151132_etkinlik.jpg",
-      "EtkinlikUrl": "lozan-5191",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/lozan-5191",
       "EtkinlikBaslamaTarihi": "2023-08-31T21:00:00"
     },
     {
@@ -54,7 +55,7 @@ export const eventsData=
       "BiletSatisLinki": null,
       "UcretsizMi": true,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230728_143335_etkinlik.jpg",
-      "EtkinlikUrl": "ogretmenler-grubu-karma-resim-segisi",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/ogretmenler-grubu-karma-resim-segisi",
       "EtkinlikBaslamaTarihi": "2023-08-08T08:00:00"
     },
     {
@@ -68,7 +69,7 @@ export const eventsData=
       "BiletSatisLinki": null,
       "UcretsizMi": true,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230711_170102_etkinlik.jpg",
-      "EtkinlikUrl": "camda-antik-izmir-koleksiyon-sergisi",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/camda-antik-izmir-koleksiyon-sergisi",
       "EtkinlikBaslamaTarihi": "2023-07-14T09:30:00"
     },
     {
@@ -82,7 +83,7 @@ export const eventsData=
       "BiletSatisLinki": null,
       "UcretsizMi": true,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230829_150439_etkinlik.jpg",
-      "EtkinlikUrl": "salih-korkut",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/salih-korkut",
       "EtkinlikBaslamaTarihi": "2023-09-01T19:00:00"
     },
     {
@@ -96,7 +97,7 @@ export const eventsData=
       "BiletSatisLinki": null,
       "UcretsizMi": true,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230829_151927_etkinlik.jpg",
-      "EtkinlikUrl": "sibel-emek-duo",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/sibel-emek-duo",
       "EtkinlikBaslamaTarihi": "2023-09-01T20:30:00"
     },
     {
@@ -110,7 +111,7 @@ export const eventsData=
       "BiletSatisLinki": "http://kultursanat.izmir.bel.tr/Sayfalar/KoltukSecim.aspx?Salon=152&Seans=6529&Etkinlik=5267",
       "UcretsizMi": false,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230825_152859_etkinlik.jpg",
-      "EtkinlikUrl": "92-ief-izmir-askina-6780",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/92-ief-izmir-askina-6780",
       "EtkinlikBaslamaTarihi": "2023-09-02T21:00:00"
     },
     {
@@ -124,7 +125,7 @@ export const eventsData=
       "BiletSatisLinki": null,
       "UcretsizMi": true,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230829_094709_etkinlik.jpg",
-      "EtkinlikUrl": "gece-yolculari-677",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/gece-yolculari-677",
       "EtkinlikBaslamaTarihi": "2023-09-02T20:30:00"
     },
     {
@@ -138,7 +139,7 @@ export const eventsData=
       "BiletSatisLinki": null,
       "UcretsizMi": true,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230829_155029_etkinlik.jpg",
-      "EtkinlikUrl": "secilya-bicer-beslisi",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/secilya-bicer-beslisi",
       "EtkinlikBaslamaTarihi": "2023-09-02T19:00:00"
     },
     {
@@ -152,7 +153,7 @@ export const eventsData=
       "BiletSatisLinki": "http://kultursanat.izmir.bel.tr/Sayfalar/KoltukSecim.aspx?Salon=152&Seans=6539&Etkinlik=5277",
       "UcretsizMi": false,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230828_145521_etkinlik.jpg",
-      "EtkinlikUrl": "92-iefafarabir-arabesk-muzikali-6935",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/92-iefafarabir-arabesk-muzikali-6935",
       "EtkinlikBaslamaTarihi": "2023-09-03T21:00:00"
     },
     {
@@ -166,7 +167,7 @@ export const eventsData=
       "BiletSatisLinki": "http://kultursanat.izmir.bel.tr/Sayfalar/KoltukSecim.aspx?Salon=155&Seans=6506&Etkinlik=4602",
       "UcretsizMi": false,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20220321_103216_etkinlik.jpg",
-      "EtkinlikUrl": "izbbst-mor-salvar-3185",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/izbbst-mor-salvar-3185",
       "EtkinlikBaslamaTarihi": "2023-09-04T19:30:00"
     },
     {
@@ -180,7 +181,7 @@ export const eventsData=
       "BiletSatisLinki": "http://kultursanat.izmir.bel.tr/Sayfalar/KoltukSecim.aspx?Salon=152&Seans=6531&Etkinlik=5269",
       "UcretsizMi": false,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230825_165329_etkinlik.jpg",
-      "EtkinlikUrl": "92-ief-sunay-akinnihat-sirdarsivrisinek-dedin-de-aklima-geldi",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/92-ief-sunay-akinnihat-sirdarsivrisinek-dedin-de-aklima-geldi",
       "EtkinlikBaslamaTarihi": "2023-09-04T21:00:00"
     },
     {
@@ -194,7 +195,7 @@ export const eventsData=
       "BiletSatisLinki": null,
       "UcretsizMi": true,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230828_092942_etkinlik.jpg",
-      "EtkinlikUrl": "edip-ic-goru",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/edip-ic-goru",
       "EtkinlikBaslamaTarihi": "2023-09-04T20:00:00"
     },
     {
@@ -208,7 +209,7 @@ export const eventsData=
       "BiletSatisLinki": "http://kultursanat.izmir.bel.tr/Sayfalar/KoltukSecim.aspx?Salon=152&Seans=6532&Etkinlik=5270",
       "UcretsizMi": false,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230825_165708_etkinlik.jpg",
-      "EtkinlikUrl": "92-ief-kaan-sekbanilerler-temiz-8129",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/92-ief-kaan-sekbanilerler-temiz-8129",
       "EtkinlikBaslamaTarihi": "2023-09-05T21:00:00"
     },
     {
@@ -222,7 +223,7 @@ export const eventsData=
       "BiletSatisLinki": "http://kultursanat.izmir.bel.tr/Sayfalar/KoltukSecim.aspx?Salon=155&Seans=6507&Etkinlik=5020",
       "UcretsizMi": false,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230303_142942_etkinlik.jpg",
-      "EtkinlikUrl": "3-nal-1-at",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/3-nal-1-at",
       "EtkinlikBaslamaTarihi": "2023-09-06T19:30:00"
     },
     {
@@ -236,7 +237,7 @@ export const eventsData=
       "BiletSatisLinki": null,
       "UcretsizMi": true,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230623_161737_etkinlik.jpg",
-      "EtkinlikUrl": "yeniden-sinemateksuc-bendemon-crime",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/yeniden-sinemateksuc-bendemon-crime#:~:text=Bu%20muzip%20polisiye%20komedi%2C%201930,ve%20aptall%C4%B1klar%C4%B1ndan%20faydalanmalar%C4%B1n%C4%B1%20konu%20al%C4%B1yor.",
       "EtkinlikBaslamaTarihi": "2023-09-06T21:00:00"
     },
     {
@@ -250,7 +251,7 @@ export const eventsData=
       "BiletSatisLinki": null,
       "UcretsizMi": true,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230828_163248_etkinlik.jpg",
-      "EtkinlikUrl": "92-ief-kahvalti-kulubu",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/92-ief-kahvalti-kulubu",
       "EtkinlikBaslamaTarihi": "2023-09-08T16:30:00"
     },
     {
@@ -264,7 +265,7 @@ export const eventsData=
       "BiletSatisLinki": null,
       "UcretsizMi": true,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230828_165607_etkinlik.jpg",
-      "EtkinlikUrl": "92-ief-juno",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/92-ief-juno",
       "EtkinlikBaslamaTarihi": "2023-09-08T19:30:00"
     },
     {
@@ -278,7 +279,7 @@ export const eventsData=
       "BiletSatisLinki": "http://kultursanat.izmir.bel.tr/Sayfalar/KoltukSecim.aspx?Salon=155&Seans=6508&Etkinlik=4960",
       "UcretsizMi": false,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20221222_134830_etkinlik.jpg",
-      "EtkinlikUrl": "izbbst-benim-naciz-vucudum-2902",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/izbbst-benim-naciz-vucudum-2902",
       "EtkinlikBaslamaTarihi": "2023-09-09T19:30:00"
     },
     {
@@ -292,7 +293,7 @@ export const eventsData=
       "BiletSatisLinki": null,
       "UcretsizMi": true,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230828_170525_etkinlik.jpg",
-      "EtkinlikUrl": "92-ief-cekmekoy-underground",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/92-ief-cekmekoy-underground",
       "EtkinlikBaslamaTarihi": "2023-09-09T16:30:00"
     },
     {
@@ -306,7 +307,7 @@ export const eventsData=
       "BiletSatisLinki": null,
       "UcretsizMi": true,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230829_134712_etkinlik.jpg",
-      "EtkinlikUrl": "92ief-orumcek-adam-orumcek-evrenine-gecis",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/92ief-orumcek-adam-orumcek-evrenine-gecis",
       "EtkinlikBaslamaTarihi": "2023-09-09T19:30:00"
     },
     {
@@ -320,7 +321,7 @@ export const eventsData=
       "BiletSatisLinki": null,
       "UcretsizMi": true,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230814_151940_etkinlik.jpg",
-      "EtkinlikUrl": "monitor-sergisi",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/monitor-sergisi",
       "EtkinlikBaslamaTarihi": "2023-08-19T12:00:00"
     },
     {
@@ -334,7 +335,7 @@ export const eventsData=
       "BiletSatisLinki": null,
       "UcretsizMi": true,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230828_171304_etkinlik.jpg",
-      "EtkinlikUrl": "92-ief-ben-earyl-ve-olen-kiz",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/92-ief-ben-earyl-ve-olen-kiz",
       "EtkinlikBaslamaTarihi": "2023-09-10T16:30:00"
     },
     {
@@ -348,7 +349,7 @@ export const eventsData=
       "BiletSatisLinki": null,
       "UcretsizMi": true,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230828_171842_etkinlik.jpg",
-      "EtkinlikUrl": "92-ief-whiplash",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/92-ief-whiplash",
       "EtkinlikBaslamaTarihi": "2023-09-10T19:30:00"
     },
     {
@@ -362,7 +363,7 @@ export const eventsData=
       "BiletSatisLinki": "http://kultursanat.izmir.bel.tr/Sayfalar/KoltukSecim.aspx?Salon=14&Seans=6522&Etkinlik=5260",
       "UcretsizMi": false,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230824_111456_etkinlik.jpg",
-      "EtkinlikUrl": "ahmed-adnan-saygun-senfoni-orkestrasi-konseri-581",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/ahmed-adnan-saygun-senfoni-orkestrasi-konseri-581",
       "EtkinlikBaslamaTarihi": "2023-09-11T20:00:00"
     },
     {
@@ -376,7 +377,7 @@ export const eventsData=
       "BiletSatisLinki": null,
       "UcretsizMi": true,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230814_143640_etkinlik.jpg",
-      "EtkinlikUrl": "sinema-benim-askim-turkan-soray-kostum-ve-afis-sergisi",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/sinema-benim-askim-turkan-soray-kostum-ve-afis-sergisi",
       "EtkinlikBaslamaTarihi": "2023-08-16T09:30:00"
     },
     {
@@ -390,7 +391,7 @@ export const eventsData=
       "BiletSatisLinki": null,
       "UcretsizMi": true,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230807_093402_etkinlik.jpg",
-      "EtkinlikUrl": "irfan-ertel-resim-sergisi",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/irfan-ertel-resim-sergisi",
       "EtkinlikBaslamaTarihi": "2023-08-25T09:30:00"
     },
     {
@@ -404,7 +405,7 @@ export const eventsData=
       "BiletSatisLinki": null,
       "UcretsizMi": true,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230823_164628_etkinlik.jpg",
-      "EtkinlikUrl": "cuneyt-gurbulak-parmagimin-ucundaki-hayallerim-sergisi",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/cuneyt-gurbulak-parmagimin-ucundaki-hayallerim-sergisi",
       "EtkinlikBaslamaTarihi": "2023-09-07T09:30:00"
     },
     {
@@ -418,7 +419,7 @@ export const eventsData=
       "BiletSatisLinki": null,
       "UcretsizMi": true,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230823_165734_etkinlik.jpg",
-      "EtkinlikUrl": "munir-yucelresim-sergisi",
+      "EtkinlikUrl": "https://kultursanat.izmir.bel.tr/Etkinlikler/munir-yucelresim-sergisi",
       "EtkinlikBaslamaTarihi": "2023-09-05T18:00:00"
     }
   ]

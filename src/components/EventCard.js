@@ -17,7 +17,7 @@ const EventCard = ({ data ,navigation}) => {
               <Text style={styles.freeBadgeText}>Ücretsiz</Text>
             </View>
           ) : null}
-          <Image source={{ uri: data.Resim }} style={styles.image} />
+          <Image source={{ uri: data.KucukAfis }} style={styles.image} />
         </View>
         <Text style={styles.eventName}>{data.Adi}</Text>
       </TouchableOpacity>
