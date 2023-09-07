@@ -23,7 +23,7 @@ export const eventsData=
       "EtkinlikBitisTarihi": "2023-08-30T22:00:00",
       "KucukAfis": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Thumb/20230828_172704_ic.jpg",
       "EtkinlikMerkezi": "İlçelerde Etkinlik Alanları",
-      "KisaAciklama": "ürk Müziğinde Kantolar, Tangolar ve Vals Konseri 30 Ağustos 2023 akşamı saat 21.00'da  Mordoğan İskele Meydanı'nda...",
+      "KisaAciklama": "Türk Müziğinde Kantolar, Tangolar ve Vals Konseri 30 Ağustos 2023 akşamı saat 21.00'da  Mordoğan İskele Meydanı'nda...",
       "BiletSatisLinki": null,
       "UcretsizMi": true,
       "Resim": "https://kultursanat.izmir.bel.tr/YuklenenDosyalar/Etkinlikler/Kucuk/20230828_172652_etkinlik.jpg",

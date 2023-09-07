@@ -2,12 +2,12 @@
 import { View, Text , TouchableOpacity,Image} from 'react-native'
 import React from 'react'
 import EventInfo from '../screens/EventInfo';
-
-
+import { SearchBar } from 'react-native-screens';
 
 
 const EventCard = ({ data ,navigation}) => {
     return (
+      
       <TouchableOpacity
         onPress={() => navigation.navigate("EventInfo", { eventsID: data.Id })}
         style={styles.cardContainer}>
