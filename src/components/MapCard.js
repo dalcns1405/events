@@ -1,12 +1,13 @@
 import React from 'react';
 import { View, Text, TouchableOpacity, Linking, StyleSheet } from 'react-native';
 
+
 const MapCard = ({ event }) => {
   const openLocationInMaps = () => {
     if (event && event.EtkinlikMerkezi) {
       const location = event.EtkinlikMerkezi;
 
-      // Google Haritalar URL'sini oluşturun
+      // Google Haritalar URL'si oluşturuldu.
       const mapUrl = `https://www.google.com/maps?q=${encodeURIComponent(location)}`;
 
       Linking.openURL(mapUrl)
@@ -43,8 +44,5 @@ const styles = StyleSheet.create({
 });
 
 export default MapCard;
-
-
-
 
 

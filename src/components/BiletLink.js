@@ -2,8 +2,7 @@ import { View, Text } from 'react-native'
 import React from 'react'
 import { StyleSheet } from 'react-native';
 import { TouchableOpacity } from 'react-native';
-import Ionicons from  "react-native-vector-icons/Ionicons"
-import { Linking, Alert } from 'react-native'; // Alert ekledik
+import { Linking, Alert } from 'react-native'; 
 
 const BiletLink = ({ event }) => {
   const openLink = (url) => {
@@ -36,8 +35,8 @@ const styles = StyleSheet.create({
       },
       linkContainer: {
         position: 'left',
-        top: 2, // Alt kenardan 10 birim mesafe
-        screenLeft: 10, // Sağ kenardan 10 birim mesafe
+        top: 2, 
+        screenLeft: 10, 
       },
 })
 
